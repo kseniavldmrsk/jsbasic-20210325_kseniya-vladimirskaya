@@ -1,3 +1,5 @@
 function showSalary(users, age) {
-  // ваш код...
+  let users = [];
+  let age = Math.max(...users);
+  if ()
 }
